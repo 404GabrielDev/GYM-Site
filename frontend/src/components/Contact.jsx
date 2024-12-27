@@ -1,5 +1,5 @@
 import axios from "axios";
-import React, { useState } from "react";
+import { useState } from "react";
 import { ClipLoader } from "react-spinners";
 import { toast } from "react-toastify";
 
@@ -35,6 +35,8 @@ const Contact = () => {
       toast.error(error.response.data.message);
     }
   };
+
+  
 
   return (
     <section className="contact">
