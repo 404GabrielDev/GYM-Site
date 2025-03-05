@@ -19,8 +19,17 @@ Nodemailer
 
 Funcionalidades
 Formulário de Contato: Permite que os usuários enviem dúvidas sobre a academia, com envio de email via Nodemailer.
+
 Design Responsivo: O site é responsivo e se adapta a diferentes tamanhos de tela, proporcionando uma boa experiência de usuário em dispositivos móveis e desktop.
+
 Notificações Interativas: Utilização do Toastify para mostrar mensagens de sucesso ou erro durante a interação com o site.
+
+screenshots do projeto:
+
+![Desktop](assets/img/screenDesktop.jpg)
+![Mobile](assets/img/screenMobile.jpg)
+
+
 Como Rodar o Projeto
 
 Pré-requisitos
