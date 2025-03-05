@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Projetado e desenvolvido por Gabriel
+        © 2025 | GYM - Desenvolvido por João Gabriel
     </footer>
   )
 }
