@@ -5,17 +5,17 @@ const Hero = () => {
     <section className="hero">
       <div className="content">
         <div className="title">
-          <h1>LET'S</h1>
-          <h1>GET</h1>
-          <h1>MOVING</h1>
+          <h1>VAMOS</h1>
+          <h1>COMEÇAR A</h1>
+          <h1>MOVIMENTAR</h1>
         </div>
         <div className="sub-title">
-          <p>Your Journey to Fitness Starts Here</p>
-          <p>Unleash Your Potential</p>
+          <p>Sua Jornada para a Forma Física Começa Aqui</p>
+          <p>Desperte Seu Potencial</p>
         </div>
         <div className="buttons">
-          <button>Start Your Journey</button>
-          <button>Discover Your Plan</button>
+          <button>Comece Sua Jornada</button>
+          <button>Descubra Seu Plano</button>
         </div>
       </div>
     </section>

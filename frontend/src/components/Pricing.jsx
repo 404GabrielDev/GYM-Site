@@ -6,26 +6,26 @@ const Pricing = () => {
   const pricing = [
     {
       imgUrl: "/pricing.jpg",
-      title: "QUARTERLY",
+      title: "TRIMESTRAL",
       price: 18000,
       length: 3,
     },
     {
       imgUrl: "/pricing.jpg",
-      title: "HEAL_YEARLY",
+      title: "SEMESTRAL",
       price: 34000,
       length: 6,
     },
     {
       imgUrl: "/pricing.jpg",
-      title: "YEARLY",
+      title: "ANUAL",
       price: 67000,
       length: 12,
     },
   ];
   return (
     <section className="pricing">
-      <h1>ELITE EDGE FITNESS PLANS</h1>
+      <h1>PLANOS DE FITNESS ELITE EDGE</h1>
       <div className="wrapper">
         {pricing.map((element) => {
           return (
@@ -33,27 +33,27 @@ const Pricing = () => {
               <img src={element.imgUrl} alt={element.title} />
               <div className="title">
                 <h1>{element.title}</h1>
-                <h1>PACKAGE</h1>
-                <h3>Rs {element.price}</h3>
-                <p>For {element.length} Months</p>
+                <h1>PACOTE</h1>
+                <h3>R$ {element.price}</h3>
+                <p>Por {element.length} Meses</p>
               </div>
               <div className="description">
                 <p>
-                  <Check /> Equipment
+                  <Check /> Equipamento
                 </p>
                 <p>
-                  <Check /> All Day Fre Training
+                  <Check /> Treinamento gratuito todo dia
                 </p>
                 <p>
-                  <Check /> Free Restroom
+                  <Check /> Banheiro gratuito
                 </p>
                 <p>
-                  <Check /> 24/7 Skilled Support
+                  <Check /> Suporte Especializado 24/7
                 </p>
                 <p>
-                  <Check /> 20 Days Freezing Option
+                  <Check /> Opção de Congelamento de 20 dias
                 </p>
-                <Link to={"/"}>Join Now</Link>
+                <Link to={"/"}>Junte-se Agora</Link>
               </div>
             </div>
           );

@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed By CodeWithZeeshu
+        Projetado e desenvolvido por Gabriel
     </footer>
   )
 }

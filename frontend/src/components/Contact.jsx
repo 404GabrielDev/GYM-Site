@@ -41,9 +41,9 @@ const Contact = () => {
   return (
     <section className="contact">
       <form onSubmit={sendMail}>
-        <h1>CONTACT US</h1>
+        <h1>Nos Contate</h1>
         <div>
-          <label>Name</label>
+          <label>Nome</label>
           <input
             type="text"
             value={name}
@@ -59,7 +59,7 @@ const Contact = () => {
           />
         </div>
         <div>
-          <label>Message</label>
+          <label>Mensagem</label>
           <input
             type="text"
             value={message}
@@ -77,7 +77,7 @@ const Contact = () => {
           }}
         >
           {loading && <ClipLoader size={20} color="white" />}
-          Send Message
+          Enviar Mensagem
         </button>
       </form>
     </section>
