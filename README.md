@@ -2,7 +2,7 @@ Academia Responsiva
 ## Descrição
 Este é um site totalmente responsivo de uma academia, desenvolvido com React e Vite para o frontend, e Node.js com Nodemailer para o backend. O projeto permite que usuários enviem dúvidas sobre a academia diretamente pelo site, utilizando um formulário de contato que dispara um email através do Nodemailer. Além disso, o site é integrado com bibliotecas como Axios para requisições HTTP e Toastify para exibir notificações de maneira prática e interativa.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Frontend:
 
@@ -14,8 +14,8 @@ Este é um site totalmente responsivo de uma academia, desenvolvido com React e 
 
 Backend:
 
-- **Node.js
-- **Nodemailer
+- **Node.js**
+- **Nodemailer**
 
 ##Funcionalidades
 ##Formulário de Contato: Permite que os usuários enviem dúvidas sobre a academia, com envio de email via Nodemailer.
