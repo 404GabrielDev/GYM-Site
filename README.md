@@ -72,7 +72,13 @@ npm run dev
 
 6- Acesse o site em http://localhost:3000 no seu navegador, ou se estiver usando vite, http://localhost:5173
 
-Licença
+### Licença
 Este projeto está sob a licença MIT.
+
+---
+
+#### Contato
+### Nome: Gabriel
+### Email: joaogabriell.ssm@gmail.com
 
 
