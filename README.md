@@ -77,7 +77,7 @@ Este projeto está sob a licença MIT.
 
 ---
 
-#### Contato
+## Contato
 ### Nome: Gabriel
 ### Email: joaogabriell.ssm@gmail.com
 
