@@ -6,16 +6,16 @@ Este é um site totalmente responsivo de uma academia, desenvolvido com React e 
 
 ### Frontend:
 
-**React
-**Vite
-**Axios
-**Toastify
-**CSS (para design responsivo)
+- **React
+- **Vite
+- **Axios
+- **Toastify
+- **CSS (para design responsivo)
 
 Backend:
 
-**Node.js
-**Nodemailer
+- **Node.js
+- **Nodemailer
 
 ##Funcionalidades
 ##Formulário de Contato: Permite que os usuários enviem dúvidas sobre a academia, com envio de email via Nodemailer.
