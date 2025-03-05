@@ -26,8 +26,8 @@ Notificações Interativas: Utilização do Toastify para mostrar mensagens de s
 
 screenshots do projeto:
 
-![Desktop](public/screenshots/screenDesktop.png)
-![Mobile](public/screenshots/screenMobile.png)
+![Desktop](screenshots/screenDesktop.png)
+![Mobile](screenshots/screenMobile.png)
 
 
 Como Rodar o Projeto
