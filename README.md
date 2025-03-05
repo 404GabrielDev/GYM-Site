@@ -6,11 +6,11 @@ Este é um site totalmente responsivo de uma academia, desenvolvido com React e 
 
 ### Frontend:
 
-- **React
-- **Vite
-- **Axios
-- **Toastify
-- **CSS (para design responsivo)
+- **React**
+- **Vite**
+- **Axios**
+- **Toastify**
+- **CSS (para design responsivo)**
 
 Backend:
 
